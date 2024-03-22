@@ -1,11 +1,16 @@
 # Configure Roles
 
-![26](https://github.com/melisa-er/Configure-Roles/assets/157723219/54aa6cfa-10c3-46b0-b37b-c13f521560c7)
+<h3>Purpose</h3>
+
+- Configure roles on osTicket.
+
+#
+<img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/osticket-images/main/26.png"/>
 
 Sign into osTicket using the credentials you input when setting it up. This is the administrator account.
 
 #
-![27](https://github.com/melisa-er/Configure-Roles/assets/157723219/0245082f-3096-4848-849e-db5dc39bb252)
+<img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/osticket-images/main/27.png"/>
 
 osTicket is divided into the Admin Panel and Agent Panel.
 
@@ -16,7 +21,7 @@ When signing into the system for the first time, you a greeted with the “Ticke
 Click on the Admin Panel on the top right corner to enter it.
 
 #
-![28](https://github.com/melisa-er/Configure-Roles/assets/157723219/f7740a80-cc65-42a9-9704-1339daa85d22)
+<img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/osticket-images/main/28.png"/>
 
 Go to Agents tab → Roles tab.
 
@@ -27,17 +32,17 @@ Agents/accounts can be assigned to different roles to meet specific needs and ma
 Click “Add New Role” on the top right.
 
 #
-![29](https://github.com/melisa-er/Configure-Roles/assets/157723219/9b1c7d56-c522-418a-a725-bc91ee6fc96d)
+<img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/osticket-images/main/29.png"/>
 
 Although the default “All Access” role fulfills the same need, we will be creating an “Administrator” role with full permissions as an example of how to create new roles.
 
 Type “Administrator” in the Name section.
 
 #
-![30](https://github.com/melisa-er/Configure-Roles/assets/157723219/af2ae9a5-7f3a-4e8e-be5e-9da7cdae331f)
-![31](https://github.com/melisa-er/Configure-Roles/assets/157723219/269272cf-de32-44df-8c6d-52165b935863)
-![32](https://github.com/melisa-er/Configure-Roles/assets/157723219/96d0495a-f695-4809-85ea-a13a471bd7c8)
-![33](https://github.com/melisa-er/Configure-Roles/assets/157723219/7fb13606-8c5d-4b66-9aa1-1c65aa8849d5)
+<img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/osticket-images/main/30.png"/>
+<img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/osticket-images/main/31.png"/>
+<img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/osticket-images/main/32.png"/>
+<img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/osticket-images/main/33.png"/>
 
 Go to the Permissions tab and check off every permission in the list. 
 
